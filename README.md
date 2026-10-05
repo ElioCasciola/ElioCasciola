@@ -16,7 +16,7 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 * Exploring **game development** alongside web and software development
 * Currently looking for opportunities to grow professionally as a **Junior Developer**
 * Native speaker of **Italian and Spanish**, with **advanced English**
-* In love with TCG, Especially Magic and Yu-Gi-Oh!
+* In love with Trading Card Games, Especially Magic and Yu-Gi-Oh!
 
 
 
