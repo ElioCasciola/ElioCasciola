@@ -13,12 +13,11 @@ I like learning by building things — from console applications and web project
 
 * Junior Software Developer with a focus on **C# and .NET**
 * Trained at **ITS Umbria Academy**
-* Building projects with **C#, React, Vite and Godot**
 * Strong interest in **Object-Oriented Programming, software architecture and clean code**
 * Exploring **game development** alongside web and software development
 * Currently looking for opportunities to grow professionally as a **Junior Developer**
 * Native speaker of **Italian and Spanish**, with **advanced English**
-
+* In love with TCG, Especially Magic and Yu-Gi-Oh!
 
 
 
