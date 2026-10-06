@@ -18,7 +18,7 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 * Native speaker of **Italian and Spanish**, with **advanced English**
 
 * In love with Trading Card Games, Especially **Magic** and **Yu-Gi-Oh!**
-* Currently binge-watching:**The Mentalist**
+* Currently binge-watching: **The Mentalist**
 
 
 
