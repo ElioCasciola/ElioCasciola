@@ -10,16 +10,9 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 
 ## About Me
 
-* Junior Software Developer with a focus on **C# and .NET**
 * Trained at **ITS Umbria Academy**
-* Strong interest in **Object-Oriented Programming, software architecture and clean code**
 * Exploring **game design** alongside web and software development
 * Currently looking for opportunities to grow professionally as a **Junior Developer**
 * Native speaker of **Italian and Spanish**, with **advanced English**
-
 * In love with Trading Card Games, Especially **Magic** and **Yu-Gi-Oh!**
 * Currently binge-watching: **The Mentalist**
-
-
-
-
