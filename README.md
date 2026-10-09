@@ -26,5 +26,3 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 **Fallen Zenith** is a turn-based fantasy RPG I'm building from scratch. I'm starting with a text-based MVP in C# to develop the core systems before moving to Godot.
 
 In the project's Updates, I document the process—from design and code to art and testing—sharing decisions, progress, and lessons learned along the way.
-
-[Website](https://fallenzenith.com/) · [Development Updates](https://fallenzenith.com/updates/) · [Source Code
