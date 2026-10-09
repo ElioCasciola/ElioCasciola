@@ -19,7 +19,7 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 
 <p align="center">
   <a href="https://fallenzenith.com/">
-    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/src/assets/fallen-zenith-loop-fallback.webp" alt="Fallen Zenith animated logo" width="400">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/src/assets/fallen-zenith-logo-particles-60fps.webp" alt="Fallen Zenith animated logo" width="400">
   </a>
 </p>
 
@@ -27,4 +27,4 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 
 In the project's Updates, I document the process—from design and code to art and testing—sharing decisions, progress, and lessons learned along the way.
 
-[Website](https://fallenzenith.com/) · [Development Updates](https://fallenzenith.com/updates/) · [Source Code](https://github.com/ElioCasciola/fallen-zenith)
+[Website](https://fallenzenith.com/) · [Development Updates](https://fallenzenith.com/updates/) · [Source Code
