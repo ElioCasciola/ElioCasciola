@@ -28,7 +28,7 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 In the project's Updates, I document the process—from design and code to art and testing—sharing decisions, progress, and lessons learned along the way.
 
 <p align="center">
-  <a href="https://fallenzenith.com/"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/website.png" alt="Website" width="172" height="37"></a>
-  <a href="https://fallenzenith.com/updates/"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/updates.png" alt="Updates" width="172" height="37"></a>
-  <a href="https://github.com/ElioCasciola/fallen-zenith"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/source-code.png" alt="Source Code" width="172" height="37"></a>
+  <a href="https://fallenzenith.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/website-dark.png"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/website-light.png" alt="Website" width="172" height="37"></picture></a>
+  <a href="https://fallenzenith.com/updates/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/updates-dark.png"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/updates-light.png" alt="Updates" width="172" height="37"></picture></a>
+  <a href="https://github.com/ElioCasciola/fallen-zenith"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/source-code-dark.png"><img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/source-code-light.png" alt="Source Code" width="172" height="37"></picture></a>
 </p>
