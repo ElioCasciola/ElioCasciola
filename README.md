@@ -29,12 +29,12 @@ In the project's Updates, I document the process—from design and code to art a
 
 <p align="center">
   <a href="https://fallenzenith.com/">
-    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/website.png" alt="Website" width="210">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/website.png" alt="Website" width="210">
   </a>
   <a href="https://fallenzenith.com/updates/">
-    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/updates.png" alt="Updates" width="210">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/updates.png" alt="Updates" width="210">
   </a>
   <a href="https://github.com/ElioCasciola/fallen-zenith">
-    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/source-code.png" alt="Source Code" width="210">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/fallenzenith-com/main/public/readme/source-code.png" alt="Source Code" width="210">
   </a>
 </p>
