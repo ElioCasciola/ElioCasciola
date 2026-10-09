@@ -26,3 +26,15 @@ My main interest is **C# development**, but I also enjoy working with **web tech
 **Fallen Zenith** is a turn-based fantasy RPG I'm building from scratch. I'm starting with a text-based MVP in C# to develop the core systems before moving to Godot.
 
 In the project's Updates, I document the process—from design and code to art and testing—sharing decisions, progress, and lessons learned along the way.
+
+<p align="center">
+  <a href="https://fallenzenith.com/">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/website.png" alt="Website" width="210">
+  </a>
+  <a href="https://fallenzenith.com/updates/">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/updates.png" alt="Updates" width="210">
+  </a>
+  <a href="https://github.com/ElioCasciola/fallen-zenith">
+    <img src="https://raw.githubusercontent.com/ElioCasciola/eliocasciola-dev/master/public/readme/source-code.png" alt="Source Code" width="210">
+  </a>
+</p>
