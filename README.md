@@ -1,7 +1,5 @@
 # Hi, I'm Elio 👋
 
-### Junior Software Developer | C# • React
-
 I'm a Junior Software Developer from Italy, currently focused on strengthening my skills through practical projects and continuous learning.
 
 My main interest is **C# development**, but I also enjoy working with **web technologies** and exploring **game development with Godot**.
